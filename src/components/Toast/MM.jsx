@@ -13,7 +13,7 @@ import CreateLogo from "./CreateLogo";
 
 import "./index.css";
 import "./MM.css";
-const isDark = true; //window.matchMedia("(prefers-color-scheme: dark)").matches;
+const isDark = false; //window.matchMedia("(prefers-color-scheme: dark)").matches;
 // console.log(window.matchMedia("(prefers-color-scheme: dark)"));
 const basic = {
   apiKey: "AIzaSyDAedX7ZDu81YQDcK2Qwh6Z9fNt9HX9P-w",
