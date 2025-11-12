@@ -16,13 +16,13 @@ import "./MM.css";
 const isDark = true; //window.matchMedia("(prefers-color-scheme: dark)").matches;
 // console.log(window.matchMedia("(prefers-color-scheme: dark)"));
 const basic = {
-  apiKey: "AIzaSyDSQrbrdcdjhvwzXccJQMbQ5x7XKTPlt9g",
-  authDomain: "walletintegration-vic.firebaseapp.com",
-  projectId: "walletintegration-vic",
-  storageBucket: "walletintegration-vic.firebasestorage.app",
-  messagingSenderId: "563872958446",
-  appId: "1:563872958446:web:18c71569e281a96bebf0ff",
-  measurementId: "G-NB5GFJ8BTD"
+  apiKey: "AIzaSyDAedX7ZDu81YQDcK2Qwh6Z9fNt9HX9P-w",
+  authDomain: "call2025-b5d35.firebaseapp.com",
+  projectId: "call2025-b5d35",
+  storageBucket: "call2025-b5d35.firebasestorage.app",
+  messagingSenderId: "1015906203772",
+  appId: "1:1015906203772:web:415f01bc2d57a5f2f6f1f9",
+  measurementId: "G-C895NM0EWJ",
 };
 
 const rtapp = initializeApp(basic);
